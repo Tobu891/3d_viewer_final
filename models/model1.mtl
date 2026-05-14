@@ -1,0 +1,55 @@
+# Blender 5.0.1 MTL File: 'alienRemakeRetopoGood4.blend'
+# www.blender.org
+
+newmtl AlienRetopoMaterial
+Ns 693.434753
+Ka 1.000000 1.000000 1.000000
+Kd 0.096530 0.106931 0.105485
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/wilia/Documents/Blender/PROJEKTY/Alien/Texture/Alien_NormaL2.png
+
+newmtl Brain_Meat
+Ns 345.033112
+Ka 1.000000 1.000000 1.000000
+Kd 0.767545 0.031859 0.029875
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Eye_inner
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Snake_skin
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/DefaultMaterial_Roughness.1001.jpg
+map_refl C:/DefaultMaterial_Metallic.1001.jpg
+map_Bump -bm 1.000000 C:/DefaultMaterial_Normal.1001.jpg
+
+newmtl Stone_(procedural)
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
